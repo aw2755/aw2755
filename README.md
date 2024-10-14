@@ -15,6 +15,19 @@ When I'm not coding, you’ll catch me playing badminton 🏸 or enjoying a coff
 
 ---
 
+## 🌐 Connect with me
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+---
+
 <div align="center">
   Thanks for visiting! 😊
 </div>
