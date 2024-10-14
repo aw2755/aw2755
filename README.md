@@ -1,6 +1,9 @@
 # 🗽 Welcome to Alan Wang's GitHub!
 
-Hello there! I'm **Alan Wang**, a full-stack developer.
+Hello there! I'm **Alan Wang**.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
 ---
 
