@@ -14,3 +14,11 @@ Living and coding in **Brooklyn, New York** 🏙, I’m a passionate developer w
 When I'm not coding, you’ll catch me playing badminton 🏸 or enjoying a coffee in a cafe ☕️.
 
 ---
+
+<div align="center">
+  Thanks for visiting! 😊
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
